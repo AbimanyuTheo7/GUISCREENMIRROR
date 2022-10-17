@@ -8,7 +8,7 @@ _pronounced "**scr**een **c**o**py**"_
 
 This application provides display and control of Android devices connected via
 USB or [over TCP/IP](#tcpip-wireless). It does not require any _root_ access.
-It works on _GNU/Linux_, _Windows_ and _macOS_.
+It works on _GNU/Linux_, and _Windows_.
 
 ![screenshot](assets/screenshot-debian-600.jpg)
 
@@ -35,6 +35,10 @@ Its features include:
  - [physical mouse simulation (HID)](#physical-mouse-simulation-hid)
  - [OTG mode](#otg)
  - and more…
+
+## Development History
+
+
 
 ## Requirements
 
