@@ -39,33 +39,33 @@ Its features include:
 ## Development History
 
 @Abimanyu Jan 19 2022 - Research and Design
-==========================================================================
+
 @Abimanyu Jan 28 2022 - Screen Mirror Developing
-==========================================================================
+
 @Dodi Feb 05 2022 - Icon designing
-==========================================================================
+
 @Abimanyu Feb 21 2022 - Debug and Build
-==========================================================================
+
 @Amrin Feb 22 2022 - Error Testing and Analyzing
-==========================================================================
+
 @Abimanyu Feb 28 2022 - Apps Switch lagging (Fixed)
-==========================================================================
+
 @Amrin Feb 30 2022 - Error Testing and Analyzing
-==========================================================================
+
 @Abimanyu Mar 07 2022 - Blank screen when mirroring (Fixed)
-==========================================================================
+
 @Amrin Mar 12 2022 - Doesn't work in Win 11 (Error Testing and Analyzing)
-==========================================================================
+
 @Abimanyu Mar 28 2022 - Doesn't work in Win 11 (Fixed)
-==========================================================================
+
 @Amrin Apr 01 2022 - Incorrect Aspect Ratio (Error Testing and Analyzing)
-==========================================================================
+
 @Abimanyu Apr 08 2022 - Incorrect Aspect Ratio (Fixed)
-==========================================================================
+
 @Amrin Apr 11 2022 - Stuck processing and keep diconnect with gadget (Error Testing and Analyzing)
-==========================================================================
+
 @Abimanyu Apr 17 2022 - Stuck processing and keep diconnect with gadget (Fixed)
-==========================================================================
+
 @Abimanyu Apr 20 2022 - scrcpy_BTI (v1.24) final build (release)
 
 
